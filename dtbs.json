@@ -1,1 +1,4 @@
-[{"number":"6285817114807","status":"active"}]
+[
+  { "number": "6282353569436", "status": "active" },
+  { "number": "6281234567890", "status": "inactive" }
+]
