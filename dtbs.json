@@ -1,7 +1,5 @@
-{
-  "dbny": [
-    "6283121861123",
-    "6282353569436",
-    "6287737420371",
-  ]
-}
+{ "number": "6282353569436", "status": "active" },
+  { "number": "6285641069814", "status": "active" },
+  { "number": "6283121861123", "status": "active" },
+  { "number": "6282353569431", "status": "inactive" }
+  { "number": "6282353569431", "status": "inactive" }
